@@ -1,0 +1,16 @@
+.idea
+build
+.gradle
+*.iws
+*.iml
+*.log.gz
+logs
+log
+target
+.project
+.classpath
+.settings/
+.DS_Store
+.springBeans
+*.pid
+*.port
